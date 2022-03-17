@@ -93,3 +93,5 @@ userNameInput.onkeydown = event => {
         assessmentButton.onclick();
     }
 }; 
+
+console.log('a');
